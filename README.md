@@ -1,6 +1,6 @@
 # Easy To Create Character Rolls
 
-Using the following commands you can create a quick character for use in RPG's.
+Using the following commands you can create a quick character for use in RPG's. Ensure to install **globally**
 
 ### Create Character Name
 charName

@@ -12,7 +12,7 @@ let statGenerator = () => {
     "Constitution: "+constitution+"\n"+
     "Intelligence: "+intelligence+"\n"+
     "Wisdom: "+wisdom+"\n"+
-    "Charisma: "+charisma+"\n"
+    "Charisma: "+charisma
     return stats
 }
 
