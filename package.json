@@ -1,6 +1,6 @@
 {
   "name": "rpg-character-generator",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Quickly roll an RPG Character",
   "main": "index.js",
   "bin": {
