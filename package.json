@@ -1,0 +1,20 @@
+{
+  "name": "charGen",
+  "version": "1.0.0",
+  "description": "Quick RPG Character Generator",
+  "main": "index.js",
+  "bin": {
+    "nameGen": "./index.js",
+    "classGen": "./class.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "placeholder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
