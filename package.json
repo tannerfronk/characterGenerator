@@ -1,11 +1,14 @@
 {
   "name": "charGen",
-  "version": "1.0.0",
-  "description": "Quick RPG Character Generator",
+  "version": "0.5.0",
+  "description": "Quickly roll an RPG Character",
   "main": "index.js",
   "bin": {
-    "nameGen": "./index.js",
-    "classGen": "./class.js"
+    "charName": "./index.js",
+    "charClass": "./class.js",
+    "charRace": "./race.js",
+    "charBackground": "./background.js",
+    "charStats": "./stats.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -3,7 +3,7 @@
 let charClass = ["Artificer", "Barbarian", "Bard", "Cleric", "Druid", "Fighter", "Monk", "Paladin", "Ranger", "Sorcerer", "Warlock", "Wizard"]
 
 let classGen = () => {
-    let num = Math.floor(Math.random() * 12) + 0
+    let num = Math.floor(Math.random() * 11) + 0
     return charClass[num]
 }
 
