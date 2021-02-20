@@ -17,7 +17,7 @@
     "type": "git",
     "url": "https://github.com/tannerfronk/characterGenerator.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["RPG", "character", "creation", "dnd"],
+  "author": "Tanner Fronk",
+  "license": "MIT"
 }
